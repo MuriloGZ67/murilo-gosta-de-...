@@ -1,0 +1,35 @@
+header{
+    position: fixed;
+    background-color: rgb(139, 138, 197);
+    top: 0%;
+    right: 0%;
+    height: 10%;
+    width: 100%;
+}
+
+a{
+    background-color: rgb(99, 98, 145);
+    color: aliceblue;
+}
+
+a:hover{
+    color: burlywood;
+}
+
+#tudao{
+    text-align: center;
+}
+
+section{
+    margin-top: 10%;
+    height: 900px;
+}
+
+footer{
+    text-align: center;
+    background-color: rgb(139, 138, 197);
+    margin: 0;
+    height: 200px;
+    width: 100%;
+}
+
